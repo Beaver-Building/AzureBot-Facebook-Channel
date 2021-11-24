@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AlwaysBlueNode'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8864B52E399C46D2ACDACCE3BEDB3E75 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5F6C89222C1463A8EAC61ABB620B058 }}
           package: .
